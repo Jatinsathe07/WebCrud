@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "sana",
+      "email": "sana@gmail.com",
+      "department": "scienced"
+    },
+    {
+      "id": "2",
+      "name": "Henry",
+      "email": "Henry@gmail.com",
+      "department": "scientist"
+    },
+    {
+      "id": "3",
+      "name": "Rob",
+      "email": "rob@gmail.com",
+      "department": "computer engineer"
+    },
+    {
+      "id": "4",
+      "name": "Aliya",
+      "email": "aliya@gmail.com",
+      "department": "Chemical Dept"
+    }
+  ]
+}
