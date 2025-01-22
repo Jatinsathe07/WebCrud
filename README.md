@@ -18,11 +18,11 @@ Crud list is a simple web application to perform simple information store in ord
   
 
 ### How to install
-* 1.Download and extract the webcrud folder
-* extracted folder open in vscode and after open terminal
-* enter command "cd crudapp"
-* enter command "npm install" for dependencies, after successfully install dependencies.
-* enter 2 commands 1) npm start  2) npx json-server --watch db.json
+* Download and extract the webcrud folder
+* Extracted folder open in vscode and after open terminal
+* Enter command "cd crudapp"
+* Enter command "npm install" for dependencies, after successfully install dependencies.
+* Enter 2 commands 1) npm start  2) npx json-server --watch db.json
 
 Note: make sure db.json file is run
 
