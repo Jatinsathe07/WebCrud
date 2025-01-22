@@ -24,7 +24,7 @@ Crud list is a simple web application to perform simple information store in ord
 * Enter command "npm install" for dependencies, after successfully install dependencies.
 * Enter 2 commands 1) npm start  2) npx json-server --watch db.json
 
-Note: make sure db.json file is run
+Note: make sure db.json file is run server
 
 
 ### Web App Demo
